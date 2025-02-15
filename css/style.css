@@ -48,6 +48,7 @@ input[type=tel] {
 .menu-icon {
   border-radius: 3px !important;
   box-shadow: none !important;
+  border: none !important;
 }
 
 .nav-link {
@@ -68,6 +69,10 @@ input[type=tel] {
 .bottom-header .main-menu a:hover,
 .bottom-header .main-menu a:active {
   color: var(--secondary-color) !important;
+}
+
+.nav-mobile-icon {
+  color: var(--white-color) !important;
 }
 
 /* End Header */
